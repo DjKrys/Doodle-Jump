@@ -1,0 +1,74 @@
+﻿  Źródło.cpp
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(29,26): warning C4305: "argument": obcięcie z "double" do "float"
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(49,57): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(49,57): warning C4244:         with
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(49,57): warning C4244:         [
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(49,57): warning C4244:             T=unsigned int
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(49,57): warning C4244:         ]
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(49,38): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(49,38): warning C4244:         with
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(49,38): warning C4244:         [
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(49,38): warning C4244:             T=unsigned int
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(49,38): warning C4244:         ]
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(57,59): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(57,59): warning C4244:         with
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(57,59): warning C4244:         [
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(57,59): warning C4244:             T=unsigned int
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(57,59): warning C4244:         ]
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(57,38): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(57,38): warning C4244:         with
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(57,38): warning C4244:         [
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(57,38): warning C4244:             T=unsigned int
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(57,38): warning C4244:         ]
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(65,36): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(65,36): warning C4244:         with
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(65,36): warning C4244:         [
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(65,36): warning C4244:             T=unsigned int
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(65,36): warning C4244:         ]
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(73,37): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(73,37): warning C4244:         with
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(73,37): warning C4244:         [
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(73,37): warning C4244:             T=unsigned int
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(73,37): warning C4244:         ]
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(81,36): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(81,36): warning C4244:         with
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(81,36): warning C4244:         [
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(81,36): warning C4244:             T=unsigned int
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(81,36): warning C4244:         ]
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(89,35): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(89,35): warning C4244:         with
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(89,35): warning C4244:         [
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(89,35): warning C4244:             T=unsigned int
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(89,35): warning C4244:         ]
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(97,36): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(97,36): warning C4244:         with
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(97,36): warning C4244:         [
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(97,36): warning C4244:             T=unsigned int
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(97,36): warning C4244:         ]
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(105,35): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(105,35): warning C4244:         with
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(105,35): warning C4244:         [
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(105,35): warning C4244:             T=unsigned int
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(105,35): warning C4244:         ]
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(113,36): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(113,36): warning C4244:         with
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(113,36): warning C4244:         [
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(113,36): warning C4244:             T=unsigned int
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(113,36): warning C4244:         ]
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(121,39): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(121,39): warning C4244:         with
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(121,39): warning C4244:         [
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(121,39): warning C4244:             T=unsigned int
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(121,39): warning C4244:         ]
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(129,40): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(129,40): warning C4244:         with
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(129,40): warning C4244:         [
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(129,40): warning C4244:             T=unsigned int
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(129,40): warning C4244:         ]
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(213,31): warning C4305: "argument": obcięcie z "double" do "float"
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(218,31): warning C4305: "argument": obcięcie z "double" do "float"
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(229,14): warning C4305: "+=": obcięcie z "double" do "float"
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(230,12): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(267,26): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Doodle_Jump\Źródło.cpp(267,23): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Doodle_Jump.vcxproj -> D:\STUDIA\1,2_ROK\Laboratoria\JP\Doodle_Jump\Debug\Doodle_Jump.exe
